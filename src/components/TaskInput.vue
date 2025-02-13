@@ -33,11 +33,11 @@
     gap: 10px;
 
     button{
-  background: #00be23;
+  background: #ec2e20;
     color: white;
     border: none;
     padding: 10px 20px;
-    border-radius: 25px;
+    border-radius: 24px;
     font-size: 16px;
     font-weight: bold;
     cursor: pointer;
